@@ -21,6 +21,6 @@ Este repositório contém recursos e materiais para o curso, como as anotações
 |Lista 2|Módulo 3: Loops e Condicionais|08/out - 15/out|[Lista2-Respostas](https://github.com/LuisOTSG/curso-feadev-python/blob/main/Listas/lista2-respostas.ipynb)|
 |Lista 3|Módulo 4: Funções|15/out - 22/out|[Lista3-Respostas](https://github.com/LuisOTSG/curso-feadev-python/blob/main/Listas/lista3-respostas.ipynb)|
 |Lista 4|Módulo 5: Introdução a bibliotecas e Numpy|22/10 - 29/out|[Lista4-Respostas](https://github.com/LuisOTSG/curso-feadev-python/blob/main/Listas/lista4-respostas.ipynb)|
-|Lista 5|Módulo 6: Pandas I - Análise de Dados|29/out - 05/nov||
+|Lista 5|Módulo 6: Pandas I - Análise de Dados|29/out - 05/nov|[Lista5-Respostas](https://github.com/LuisOTSG/curso-feadev-python/blob/main/Listas/lista5-respostas.ipynb)|
 |Lista 6|Módulo 7: Pandas II - Análise de Dados|05/nov - 12/nov||
 |Lista 7|Módulo 8: Visualização de dados|12/nov - 19/nov||
