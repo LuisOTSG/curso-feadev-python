@@ -1,13 +1,13 @@
 *.pdf
 Listas/Entregas/
-*Semana */.ipynb_checkpoints
-Semana 1/.ipynb_checkpoints
-Semana 2/.ipynb_checkpoints
-Semana 3/.ipynb_checkpoints
-Semana 4/.ipynb_checkpoints
-Semana 5/.ipynb_checkpoints
-Semana 6/.ipynb_checkpoints
-Semana 7/.ipynb_checkpoints
-Semana 8/.ipynb_checkpoints
-Semana */.ipynb_checkpoints*
+*Semana */.ipynb_checkpoints/
+Semana 1/.ipynb_checkpoints/
+Semana 2/.ipynb_checkpoints/
+Semana 3/.ipynb_checkpoints/
+Semana 4/.ipynb_checkpoints/
+Semana 5/.ipynb_checkpoints/
+Semana 6/.ipynb_checkpoints/
+Semana 7/.ipynb_checkpoints/
+Semana 8/.ipynb_checkpoints/
+Semana */.ipynb_checkpoints/
 *aulafeadev*
