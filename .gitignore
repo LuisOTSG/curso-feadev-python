@@ -1,5 +1,4 @@
 *.pdf
 Listas/Entregas/
-.ipynb_checkpoints
-**/.ipynb_checkpoints/*
+*checkpoint.ipynb
 *aulafeadev*
